@@ -88,4 +88,26 @@ This analysis investigates:
 
 ---
 
+## Files in This Repository
+Netflix-Unsupervised-Learning/
+│
+├── Netflix_unsupervised.ipynb 
+├── README.md 
+├── requirements.txt 
+└── data/netflix_titles.csv
+
+
+---
+
+## Future Scope
+- Develop an interactive **Streamlit Dashboard** for visual exploration.
+- Integrate **Gemini API** for question-answering on Netflix trends.
+- Extend to **supervised prediction** (e.g., predict genre cluster or user interest).
+
+---
+
+## Author
+**Name:** Kanika Singh Rajpoot
+**Project:** Netflix Shows & Movies — Unsupervised Learning Analysis  
+**Tools:** Python, scikit-learn, NLTK, Seaborn, WordCloud, Streamlit (optional)  
 
