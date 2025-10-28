@@ -91,9 +91,13 @@ This analysis investigates:
 ## Files in This Repository
 Netflix-Unsupervised-Learning/
 │
+
 ├── Netflix_unsupervised.ipynb 
+
 ├── README.md 
+
 ├── requirements.txt 
+
 └── data/netflix_titles.csv
 
 
