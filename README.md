@@ -108,6 +108,8 @@ Netflix-Unsupervised-Learning/
 
 ## Author
 **Name:** Kanika Singh Rajpoot
+
 **Project:** Netflix Shows & Movies — Unsupervised Learning Analysis  
+
 **Tools:** Python, scikit-learn, NLTK, Seaborn, WordCloud, Streamlit (optional)  
 
