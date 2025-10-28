@@ -98,8 +98,6 @@ Netflix-Unsupervised-Learning/
 
 ├── requirements.txt 
 
-└── data/netflix_titles.csv
-
 
 ---
 
