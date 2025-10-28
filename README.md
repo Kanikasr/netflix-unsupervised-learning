@@ -33,24 +33,24 @@ This analysis investigates:
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
-###1️. Data Cleaning
+### 1️. Data Cleaning
 - Handled missing values and duplicates.  
 - Standardized duration units (converted all to minutes).  
 - Extracted `year`, `month`, and `delay_years` (time gap between release and Netflix addition).  
 - Derived `num_genres` from genre column.
 
-###2️. Text Preprocessing
+### 2️. Text Preprocessing
 - Expanded contractions and removed punctuation, digits, and stopwords.  
 - Lemmatized text using **WordNetLemmatizer**.  
 - Applied **TF-IDF Vectorization** to represent text numerically.
 
-###3️. Feature Engineering
+### 3️. Feature Engineering
 - Combined TF-IDF text features with numeric features (`release_year`, `duration_int`, `num_genres`, `delay_years`).  
 - Scaled all features using **StandardScaler**.
 
-###4️. Clustering Models
+### 4️. Clustering Models
 | Model | Technique | Evaluation Metric | Key Observation |
 |--------|------------|------------------|----------------|
 | **Model 1** | K-Means | Elbow + Silhouette | 4 clusters, Silhouette ≈ 0.45 |
