@@ -73,6 +73,9 @@ This analysis investigates:
 
 **Key takeaway:** Netflix’s catalogue shows a strong shift toward **modern, shorter, and emotionally-driven content**, reflecting global viewer engagement trends.
 
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/3dec4953-a5a0-4b57-8db0-c4459d5e1149" />
+
+
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/33c544eb-a90b-4d1a-b184-ef99d0525035" />
 
 
