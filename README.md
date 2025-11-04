@@ -1,5 +1,8 @@
 # Netflix Shows & Movies: Unsupervised Learning Analysis
 
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8e8484db-8fa0-4cfd-862e-f8f4c9ec30fb" />
+
+
 ## Project Overview
 This project explores Netflix’s global catalogue of shows and movies using **unsupervised learning techniques**.  
 The goal is to uncover **patterns in content type, release trends, and genre-based themes** — and to understand how Netflix’s content focus has evolved over time.
@@ -69,6 +72,9 @@ This analysis investigates:
 | **Single-Genre Documentaries** | Focused thrillers or factual content | True crime, docs |
 
 **Key takeaway:** Netflix’s catalogue shows a strong shift toward **modern, shorter, and emotionally-driven content**, reflecting global viewer engagement trends.
+
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/33c544eb-a90b-4d1a-b184-ef99d0525035" />
+
 
 ---
 
