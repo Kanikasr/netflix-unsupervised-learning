@@ -1,4 +1,4 @@
-# Netflix Content Analysis using Unsupervised Learning
+# Netflix Streaming Content Segmentation
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8e8484db-8fa0-4cfd-862e-f8f4c9ec30fb" />
 
