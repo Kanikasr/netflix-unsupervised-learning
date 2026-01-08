@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Promotion & Discovery Decision-Support System
+# 🎬 Decision-Support System for Content Promotion & Discovery Health
 
 A **platform-level analytics and decision-support system** built using
 **exploratory data analysis, unsupervised learning, and decision policy logic**
