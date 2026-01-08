@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Databases
+*.db
+
+# Secrets
+config/*.yaml
+config/*.json
+.env
+
+# Logs
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets
+data/*.csv
