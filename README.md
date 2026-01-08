@@ -36,7 +36,8 @@ EDA was used not just for visualization, but to **inform modeling decisions**.
 - Movies vs TV Shows distribution reveals a movie-heavy legacy catalog
 - Temporal analysis shows increasing dominance of TV content in recent years
 
-![img_2.png](img_2.png)
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/a61860f3-b1af-4f56-a277-37747af48e81" />
+
 ---
 
 ### Duration & Commitment Patterns
@@ -44,7 +45,8 @@ EDA was used not just for visualization, but to **inform modeling decisions**.
 - TV shows cluster around season counts
 - Long-duration content is structurally riskier for promotion
 
-![img_3.png](img_3.png)
+<img width="1014" height="548" alt="image" src="https://github.com/user-attachments/assets/16e917c1-4e10-4bed-a4b4-a856d801f879" />
+
 
 ---
 
@@ -53,7 +55,8 @@ EDA was used not just for visualization, but to **inform modeling decisions**.
 - Genre overlap is high, making single-genre labeling insufficient
 - Supports the use of unsupervised learning over rule-based classification
 
-![img_4.png](img_4.png)
+<img width="1151" height="548" alt="image" src="https://github.com/user-attachments/assets/9b0999f9-ba63-4979-a0f8-3ede62545b0c" />
+
 ---
 
 ### Content Staleness
@@ -61,14 +64,16 @@ EDA was used not just for visualization, but to **inform modeling decisions**.
 - Older content remains present and relevant
 - Delay becomes a key risk signal
 
-![img_5.png](img_5.png)
+<img width="841" height="548" alt="image" src="https://github.com/user-attachments/assets/b21efddd-91ad-4a7c-a28a-9c36af5ea62a" />
+
 ---
 
 ### Geographic & Rating Diversity
 - Country vs content-type heatmap highlights catalog heterogeneity
 - Supports platform-level rather than personalized analysis
 
-![img_6.png](img_6.png)
+<img width="1003" height="625" alt="image" src="https://github.com/user-attachments/assets/88847c58-7a98-497b-8042-279444906e91" />
+
 
 
 ---
@@ -77,7 +82,8 @@ EDA was used not just for visualization, but to **inform modeling decisions**.
 - Word cloud confirms meaningful semantic signal in descriptions
 - Supports NLP-based representation
 
-![img_8.png](img_8.png)
+<img width="950" height="601" alt="image" src="https://github.com/user-attachments/assets/1924fa32-750d-499b-a2a5-e5f8c26e0832" />
+
 
 ---
 
@@ -107,7 +113,8 @@ KMeans clustering (k=4) was selected using:
 - Silhouette score
 - Interpretability
 
-![img_9.png](img_9.png)
+<img width="1011" height="402" alt="image" src="https://github.com/user-attachments/assets/d9e99b75-c150-481b-b3de-c7210e800301" />
+
 
 Clusters represent **latent content themes**, not predefined genres:
 
@@ -174,7 +181,9 @@ A business-facing dashboard provides:
 
 Designed for **internal decision-makers**, not end users.
 
-![img_10.png](img_10.png)
+<img width="1919" height="967" alt="netflix_streamlit_page1" src="https://github.com/user-attachments/assets/c5b36c00-27d2-4a9f-8720-d4729738e891" />
+
+
 
 ---
 
